@@ -1,0 +1,78 @@
+header{
+       background-color:#42e5f4;
+       text-align:center;
+       color:white;
+       padding:10px;
+       margin:0px 10px;
+       overflow:hidden;
+      }
+#imageThings img{
+height:900px;
+width:900px;
+}
+header a{
+	text-decoration:none;
+	padding:4px;
+	background-color:#03a9f4;
+	color:white;
+	border-radius:0px;
+	letter-spacing:none;
+	font-size:17px;
+	font-family: 'Ubuntu', sanserif;
+	border: 2px solid silver;
+}
+header a:hover{
+	text-decoration:none;
+	padding:4px;
+	background-color:#F52549;
+	color:white;
+	border-radius:0px;
+	letter-spacing:none;
+	font-size:19px;
+	font-family: 'Ubuntu', sanserif;
+	border: 3px solid black;
+	}
+header h1{
+font-family: 'Josefin Sans', sans-serif;
+color:white;
+text-align:left;
+}
+header p{
+text-align:right;
+font-family: 'Josefin Sans', sans-serif;
+}
+
+footer{
+       background-color:#42e5f4;
+       text-align:center;
+       color:white;
+       padding:10px;
+       margin:0px 10px;
+       overflow:hidden;
+      }
+#imageThings h1{
+font-family: 'IM Fell English SC', serif;
+font-size:43px;
+}
+#imageThings p{
+font-family: 'Ubuntu', serif;
+}
+#imageThings a{
+text-decoration:none;
+	padding:5px;
+	background-color:#03a9f4;
+	color:white;
+	border-radius:8px;
+	letter-spacing:none;
+	font-size:15px;
+}
+#imageThings a:hover{
+text-decoration:none;
+	padding:7px;
+	background-color:red;
+	color:white;
+	border-radius:5px;
+	letter-spacing:none;
+	font-size:17px;
+	border:4px solid black;
+}
